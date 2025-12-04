@@ -52,6 +52,3 @@ python lowlight_test.py
 ```
 Results (enhanced images) will be saved automatically in the ./results/ directory.
 
-## Contact
-
-For questions or collaborations, please contact:guanyu@stu.xust.edu.cn
